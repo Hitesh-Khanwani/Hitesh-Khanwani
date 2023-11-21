@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/Hitesh-Khanwani](https://codepen.io/Hitesh-Khanwani)
-
 - 💬 Ask me about **HTML,CSS & Javascript**
 
 - 📫 How to reach me **hiteshkhanwani07@gmail.com**
